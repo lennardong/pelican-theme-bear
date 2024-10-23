@@ -1,7 +1,8 @@
 :root {
+    /* --width: 720px; */
     --width: 720px;
-    --font-main: Verdana, sans-serif;
-    --font-secondary: Verdana, sans-serif;
+    --font-main: Helvetica, sans-serif;
+    --font-secondary: Helvetica, sans-serif;
     --font-scale: 1em;
     --background-color: #fff;
     --heading-color: #222;
